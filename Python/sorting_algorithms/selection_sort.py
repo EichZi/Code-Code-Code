@@ -12,7 +12,6 @@ def selection_sort(number_list) :
     number_list[i] = number_list[min_index]
     number_list[min_index] = temp
         
-        
 my_list = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
 print('Lista actual:')
 print(my_list)
